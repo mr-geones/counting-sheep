@@ -2,11 +2,11 @@ Consider an array/list of sheep where some sheep may be missing from their place
 
 For example, <br>
 
-[true,  true,  true,  false,
-  true,  true,  true,  true ,
-  true,  false, true,  false,
-  true,  false, false, true ,
-  true,  true,  true,  true ,
+[true,  true,  true,  false,<br>
+  true,  true,  true,  true ,<br>
+  true,  false, true,  false,<br>
+  true,  false, false, true ,br>
+  true,  true,  true,  true ,<br>
   false, false, true,  true]
 
 The correct answer would be 17.
