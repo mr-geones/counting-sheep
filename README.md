@@ -5,7 +5,7 @@ For example, <br>
 [true,  true,  true,  false,<br>
   true,  true,  true,  true ,<br>
   true,  false, true,  false,<br>
-  true,  false, false, true ,br>
+  true,  false, false, true ,<br>
   true,  true,  true,  true ,<br>
   false, false, true,  true]
 
